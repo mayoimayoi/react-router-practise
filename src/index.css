@@ -2,3 +2,15 @@
   color: white;
   background-color: blue;
 }
+
+.myPage {
+  display: flex;
+}
+.sideBar {
+  width: 20%;
+  background-color: violet;
+}
+.mainContents {
+  width: 80%;
+  background-color: skyblue;
+}
